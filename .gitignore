@@ -1,0 +1,50 @@
+# Development/planning artifacts
+tools/
+
+# AI tooling artifacts
+.claude/
+.cursor/
+.aider*
+.ai/
+*.ai.md
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Node modules (if build tooling is added later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Optional: Build outputs (if needed)
+dist/
+build/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
